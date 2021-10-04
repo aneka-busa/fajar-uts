@@ -1,13 +1,13 @@
 import React from "react";
 import ProfilePic from "./Img/ProfilePic.png";
-import AmnaAbd from "./Img/AmnaAbd.png";
+import AmnaAbd from "./Img/AmnaAbd.jfif";
 function AboutMe() {
   return (
     <>
       <div id="aboutme" className="container p-3 mb-5 aboutMe">
         <div className="row">
           <div className="col-sm-12 col-md-5 d-flex justify-content-center align-items-center ">
-            <img src={ProfilePic} style={{ width: '300px', height: '300px', borderRadius: '50%'}} class="mb-3 pictureMe" ></img>
+            <img src={AmnaAbd} style={{ width: '300px', height: '300px', borderRadius: '50%'}} class="mb-3 pictureMe" ></img>
           </div>
           <div className="col-sm-12 col-md-7">
             <h1 className="text-center aboutMeHeader">Amna Abdallah</h1>
