@@ -18,8 +18,8 @@ function MyProjects() {
       image: FetchFlix,
       title: "Streaming Page (React)",
       explanation: "React",
-      link: "https://muratcanoncu.github.io/Movie-Browser-React/",
-      repoLink: "https://github.com/muratcanoncu/Movie-Browser-React",
+      link: "https://amnaabd.github.io/Movie-Browser-React/",
+      repoLink: "https://amnaabd.github.io/Movie-Browser-React",
     },
     {
       id: 2,
