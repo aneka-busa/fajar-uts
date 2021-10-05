@@ -26,8 +26,8 @@ function MyProjects() {
       image: RecordShop,
       title: "Record Shop (React)",
       explanation: "Online Shop",
-      link: "https://reactproject-fbw41-1.github.io/Record-Shop-project/#/",
-      repoLink: "https://github.com/ReactProject-FbW41-1/Record-Shop-project",
+      link: "https://amnaabd.github.io/Record-Shop-project/#/",
+      repoLink: "https://amnaabd.github.io/Record-Shop-project",
     },
     {
       id: 3,
