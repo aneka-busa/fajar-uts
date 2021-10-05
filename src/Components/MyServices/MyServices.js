@@ -5,6 +5,9 @@ import Bootstrap from "./Img/bootstrap.png";
 import JavaScript from "./Img/javaScript.png";
 import ReactLogo from "./Img/react.png";
 import NodeLogo from "./Img/NodeLogo.svg.png";
+import Angular from "./Img/Angular.png";
+import Laravel from "./Img/Laravel.png";
+import Wordpress from "./Img/Wordpress.png";
 
 function MyServices() {
   return (
@@ -55,6 +58,27 @@ function MyServices() {
             style={{ width: "160px", marginBottom: "15px" }}
           ></img>
           <h2>HTML</h2>
+        </div>
+ <div className="experienceItems" style={{ marginBottom: "30px" }}>
+          <img
+            src={Angular}
+            style={{ width: "160px", marginBottom: "15px" }}
+          ></img>
+          <h2>Angular</h2>
+        </div>
+ <div className="experienceItems" style={{ marginBottom: "30px" }}>
+          <img
+            src={Laravel}
+            style={{ width: "160px", marginBottom: "15px" }}
+          ></img>
+          <h2>Laravel</h2>
+        </div>
+ <div className="experienceItems" style={{ marginBottom: "30px" }}>
+          <img
+            src={Wordpress}
+            style={{ width: "160px", marginBottom: "15px" }}
+          ></img>
+          <h2>Wordpress</h2>
         </div>
       </div>
     </>
