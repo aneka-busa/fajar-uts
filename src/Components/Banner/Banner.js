@@ -16,8 +16,8 @@ function Banner() {
         id="nameTitle"
         className="d-flex flex-column justify-content-center align-items-start"
       >
-        <h1>Amna Abdallah</h1>
-        <h2>Software Developer</h2>
+        <h1>FAJAR ALDYANSYAH SIDIK</h1>
+        <h2>STAFF IT MANAGER</h2>
       </div>
     </header>
   );

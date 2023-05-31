@@ -1,6 +1,5 @@
 import React from "react";
-import ProfilePic from "./Img/ProfilePic.png";
-import AmnaAbd from "./Img/AmnaAbd.jfif";
+import AmnaAbd from "./Img/fajar.jfif";
 function AboutMe() {
   return (
     <>
@@ -10,17 +9,13 @@ function AboutMe() {
             <img src={AmnaAbd} style={{ width: '300px', height: '300px', borderRadius: '50%'}} class="mb-3 pictureMe" ></img>
           </div>
           <div className="col-sm-12 col-md-7">
-            <h1 className="text-center aboutMeHeader">Amna Abdallah</h1>
+            <h1 className="text-center aboutMeHeader">FAJAR ALDYANSYAH SIDIK</h1>
             <p className="w-75 mx-auto text-center aboutMeText mb-5">
-              IT Engineer graduate, Professional Designer, Full Stack Web Developer
-              with 5+ years of experience in Education, Auditing, and Web
-              Development. Seeking a position to apply analytic skills as part
-              of a team for creating user-oriented solutions in the tech
-              industry.
+            I am a 23 year old young man, I am currently studying at the Areta Informatic College campus so I like the world of challenges in the world of informatic technology, I live in Tangerang Regency. I am currently working in the field of technology such as web developer, graphic design, digital marketing, video editing and copy writing for an SEO article.
             </p>
             <div className="d-flex justify-content-between w-50 align-items-center mx-auto">
               <a
-                href="https://www.linkedin.com/in/amna-abdallah-2b615572/"
+                href="#"
                 target="_blank"
               >
                 <i
@@ -32,7 +27,7 @@ function AboutMe() {
               <a href="#" target="_blank">
                 <i id="xingLogo" className="fab fa-xing" title="Xing"></i>
               </a>
-              <a href="https://github.com/amnaabd" target="_blank">
+              <a href="#" target="_blank">
                 <i
                   id="gitHubLogo"
                   className="fab fa-github-square"

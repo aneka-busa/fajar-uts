@@ -10,8 +10,8 @@ function NavbarComp() {
             style={{ borderBottom: "1px solid black", width: "50%" }}
             className="mx-auto mb-1"
           ></div>
-          <h3 className="name font-weight-bolder mb-0">Amna Abdallah</h3>
-          <p className="text-center">Tunisia | Mahdia</p>
+          <h3 className="name font-weight-bolder mb-0">FAJAR ALDYANSYAH SIDIK</h3>
+          <p className="text-center">TANGERANG | BANTEN</p>
         </div>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />

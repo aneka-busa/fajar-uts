@@ -5,9 +5,10 @@ import Bootstrap from "./Img/bootstrap.png";
 import JavaScript from "./Img/javaScript.png";
 import ReactLogo from "./Img/react.png";
 import NodeLogo from "./Img/NodeLogo.svg.png";
-import Angular from "./Img/Angular.png";
+import GitHub from "./Img/github.png";
 import Laravel from "./Img/Laravel.png";
 import Wordpress from "./Img/Wordpress.png";
+import Seo from "./Img/seo.png";
 
 function MyServices() {
   return (
@@ -61,10 +62,10 @@ function MyServices() {
         </div>
  <div className="experienceItems" style={{ marginBottom: "30px" }}>
           <img
-            src={Angular}
+            src={GitHub}
             style={{ width: "160px", marginBottom: "15px" }}
           ></img>
-          <h2>Angular</h2>
+          <h2>GitHub</h2>
         </div>
  <div className="experienceItems" style={{ marginBottom: "30px" }}>
           <img
@@ -79,6 +80,13 @@ function MyServices() {
             style={{ width: "160px", marginBottom: "15px" }}
           ></img>
           <h2>Wordpress</h2>
+        </div>
+  <div className="experienceItems" style={{ marginBottom: "30px" }}>
+          <img
+            src={Seo}
+            style={{ width: "160px", marginBottom: "15px" }}
+          ></img>
+          <h2>Seo</h2>
         </div>
       </div>
     </>

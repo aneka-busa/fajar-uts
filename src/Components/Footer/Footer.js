@@ -26,10 +26,10 @@ function Footer(props) {
           style={{ borderBottom: "1px solid black", width: "50%" }}
           className="mx-auto mb-1"
         ></div>
-        <h3 className="name font-weight-bolder mb-0">Amna Abdallah</h3>
-        <p className="text-center mb-0">Mahdia | Tunisia</p>
+        <h3 className="name font-weight-bolder mb-0">FAJAR ALDYANSYAH SIDIK</h3>
+        <p className="text-center mb-0">Tangerang | Banten</p>
         <p style={{ fontSize: "0.8rem", color: "gray" }}>
-          Copyright ©2021 All rights reserved
+          Copyright ©2023 All rights reserved
         </p>
       </div>
 
@@ -39,17 +39,17 @@ function Footer(props) {
           className="footerLogos d-flex justify-content-between align-items-center"
           style={{ width: "190px" }}
         >
-          <a href="https://www.linkedin.com/in/amna-abdallah-2b615572/" target="_blank">
+          <a href="#" target="_blank">
             <i
-              id="linkedinLogo"
-              className="fab fa-linkedin"
-              title="LinkedIn"
+              id="Instagram"
+              className="fab fa-instagram"
+              title="Instagram"
             ></i>
           </a>
           <a href="#" target="_blank">
             <i id="xingLogo" className="fab fa-xing" title="Xing"></i>
           </a>
-          <a href="https://github.com/AmnaAbd" target="_blank">
+          <a href="#" target="_blank">
             <i
               id="gitHubLogo"
               className="fab fa-github-square"
