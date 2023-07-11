@@ -6,7 +6,7 @@ import Catalog from "./Img/katalog.png";
 import Alumni from "./Img/alumni.jpg";
 import Jualbusa from "./Img/jualbusa.png";
 function MyProjects() {
-  const [projectState] = useState([
+  const [projectState, useState] = useState([
    
     {
       id: 2,
