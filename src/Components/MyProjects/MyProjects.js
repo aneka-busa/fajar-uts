@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import ProjectItem from "./ProjectItem";
 //! ScreenShots
 import Industribusa from "./Img/industribusa.png";
@@ -6,7 +6,7 @@ import Catalog from "./Img/katalog.png";
 import Alumni from "./Img/alumni.jpg";
 import Jualbusa from "./Img/jualbusa.png";
 function MyProjects() {
-  const [projectState, useState] = useState([
+  const [projectState] = useState([
    
     {
       id: 2,
